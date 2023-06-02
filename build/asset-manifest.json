@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/POMODORO/static/css/main.e6c13ad2.css",
+    "main.js": "/POMODORO/static/js/main.3dc29e1a.js",
+    "static/js/787.c674efeb.chunk.js": "/POMODORO/static/js/787.c674efeb.chunk.js",
+    "index.html": "/POMODORO/index.html",
+    "main.e6c13ad2.css.map": "/POMODORO/static/css/main.e6c13ad2.css.map",
+    "main.3dc29e1a.js.map": "/POMODORO/static/js/main.3dc29e1a.js.map",
+    "787.c674efeb.chunk.js.map": "/POMODORO/static/js/787.c674efeb.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.3dc29e1a.js"
+  ]
+}
